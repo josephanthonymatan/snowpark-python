@@ -1,3 +1,6 @@
+# NOTE
+This is not the official SNOWFLAKE SNOWPARK PYTHON release, it is a hack to workaround the lack of support for python > 3.8.x
+
 # Snowflake Snowpark Python API
 
 The Snowpark library provides intuitive APIs for querying and processing data in a data pipeline.
